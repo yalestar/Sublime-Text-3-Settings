@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<%= $0 %>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ero</tabTrigger>
+<!--	<scope>source.ruby.rails.erb</scope> -->
+</snippet>

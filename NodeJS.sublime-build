@@ -1,0 +1,15 @@
+{
+	"cmd": ["/usr/local/bin/node", "$file"],
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"selector": "source.js"
+}
+
+// {
+//   "save_first": true,
+//   "node_command": "/usr/local/bin/node",
+//   "npm_command": "/usr/local/bin/npm",
+//   // as 'NODE_PATH' environment variable for node runtime
+//   "node_path": false,
+//   "expert_mode": false,
+//   "output_to_new_tab": false
+// }

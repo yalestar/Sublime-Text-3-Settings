@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+binding.pry
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bp</tabTrigger>
+	<scope>source.ruby</scope> 
+</snippet>

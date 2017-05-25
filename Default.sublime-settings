@@ -1,0 +1,11 @@
+{
+	"stored_connections":
+	{
+		"hubbub@localhost":
+		{
+			"database_type": "PostgreSQL",
+			"password": "hhbbub",
+			"port": null
+		}
+	}
+}

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+debugger;
+]]></content>
+	<tabTrigger>dbg</tabTrigger>
+	<scope>text.javascript, text.html.ruby, source.js.embedded.html</scope>
+</snippet>
