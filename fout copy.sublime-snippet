@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fmt.Printf(${1:})
-]]></content>
-	<tabTrigger>fouf</tabTrigger>
-	<scope>source.go</scope>
-	<description>fmt.Printf</description>
-</snippet>

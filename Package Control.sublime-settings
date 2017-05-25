@@ -2,8 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"GitGutter-Edge",
-		"Rust"
 	],
 	"installed_packages":
 	[
@@ -23,9 +21,7 @@
 		"Git",
 		"GitDiffHelper",
 		"GitGutter",
-		"GitSavvy",
 		"Golang Build",
-		"GoSublime",
 		"Highlight Whitespaces",
 		"HTMLBeautify",
 		"Http Requester",
