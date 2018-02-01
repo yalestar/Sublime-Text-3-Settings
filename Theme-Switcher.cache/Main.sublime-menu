@@ -1,1 +1,0 @@
-[{"children": [{"caption": "Theme", "children": [{"caption": "Theme - Default", "children": [{"args": {"name": "Default.sublime-theme"}, "caption": "Default", "command": "switch_theme"}]}, {"caption": "-", "id": "separator"}, {"caption": "Refresh Theme Cache", "command": "refresh_theme_cache"}], "id": "theme"}], "id": "preferences"}]

@@ -6,7 +6,7 @@
     "color_scheme": "Packages/TestRSpec/themes/TestConsole.hidden-tmTheme",
   },
   // rspec command
-  "rspec_command": "brasdfundle exec rspec",
+  "rspec_command": "bundle exec rspec",
   // environment variables for rspec command
   "env": {
   },

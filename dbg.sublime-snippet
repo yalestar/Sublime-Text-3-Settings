@@ -3,5 +3,5 @@
 debugger;
 ]]></content>
 	<tabTrigger>dbg</tabTrigger>
-	<scope>text.javascript, text.html.ruby, source.js.embedded.html</scope>
+	<scope>source.js, text.html.ruby, source.js.embedded.html</scope>
 </snippet>
