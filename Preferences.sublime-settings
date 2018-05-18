@@ -23,7 +23,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/User/SublimeLinter/Fluidvision (SL).tmTheme",
+	"color_scheme": "Packages/User/Fluidvision.tmTheme",
 	"draw_indent_guides": true,
 	"enable_tab_scrolling": false,
 	"file_exclude_patterns":
@@ -79,8 +79,8 @@
 		"tmp",
 		"rcov"
 	],
-	"font_face": "Menlo",
-	"font_size": 17.0,
+	"font_face": "Fira Code",
+	"font_size": 18.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -101,6 +101,8 @@
 		"Scala",
 		"ScopeHunter",
 		"sublime-split-navigation",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"Table Editor",
 		"TCL",
 		"Vintage",

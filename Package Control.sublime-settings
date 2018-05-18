@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"ActualVim",
+		"Advanced CSV",
 		"All Autocomplete",
 		"Ansible",
 		"AnsibleSnippets",
@@ -37,6 +38,7 @@
 		"Jade",
 		"Keymaps",
 		"Markdown Preview",
+		"MarkdownLivePreview",
 		"Material Color Scheme",
 		"Minifier",
 		"nginx",
@@ -53,11 +55,11 @@
 		"ScopeAlways",
 		"ScopeHunter",
 		"SideBarEnhancements",
+		"SideBarTools",
 		"SortBy",
 		"SqlBeautifier",
 		"StringEncode",
 		"SublimeLinter",
-		"SublimeLinter-contrib-ansible-lint",
 		"SublimeLinter-rubocop",
 		"Surround",
 		"Themes Menu Switcher",
