@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+when: ${1: ${2:variable} is ${3:defined}}
+]]></content>
+  <tabTrigger>when</tabTrigger>
+  <scope>source.yaml,source.ansible</scope>
+</snippet>

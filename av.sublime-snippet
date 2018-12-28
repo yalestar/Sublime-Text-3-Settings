@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+"{{ $0 }}"
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>av</tabTrigger>
+	<scope>source.yaml</scope> 
+</snippet>
