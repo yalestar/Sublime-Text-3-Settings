@@ -44,7 +44,6 @@
 		"*.doc",
 		"*.sln",
 		"*.fla",
-		"*.crt",
 		"*.pem",
 		"*.gitkeep",
 		"*.pdb",

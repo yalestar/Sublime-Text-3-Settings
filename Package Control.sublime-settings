@@ -51,7 +51,6 @@
 		"Python PEP8 Autoformat",
 		"rspec-snippets",
 		"Ruby Hash Converter",
-		"Rust Enhanced",
 		"ScopeAlways",
 		"ScopeHunter",
 		"SideBarEnhancements",
@@ -66,6 +65,7 @@
 		"Themes Menu Switcher",
 		"TrailingSpaces",
 		"Vintageous",
+		"Whitespace",
 		"WordCount"
 	],
 	"repositories":
