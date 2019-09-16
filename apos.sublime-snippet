@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 - pause:
-    prompt: "Make sure org.foo.FooOverload exception is not present"
+    prompt: "I guess lard was False"
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>apos</tabTrigger>

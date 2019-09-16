@@ -1,20 +1,19 @@
 {
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"extensions":
 	[
 		"jbuilder",
 		"prawn",
-    "rb"
+		"rb"
 	],
-    "default_encoding": "UTF-8",
-    "default_line_ending": "unix",
-    "ensure_newline_at_eof_on_save": true,
-    "rulers":
-    [
-        80
-    ],
-    "tab_size": 2,
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_wrap": "true"
-
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
 }

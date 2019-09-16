@@ -1,7 +1,9 @@
 <snippet>
 <content><![CDATA[
-- debug: msg="{{ ${1:} }}"
+- name: Here we pause 
+  pause:
+      prompt: "${1:}"
 ]]></content>
-  <tabTrigger>debug</tabTrigger>
+  <tabTrigger>pause</tabTrigger>
   <scope>source.yaml,source.ansible</scope>
 </snippet>
