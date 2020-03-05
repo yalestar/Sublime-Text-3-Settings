@@ -1,7 +1,6 @@
 
 [
   { "keys": ["super+alt+l"], "command": "pep8_autoformat" },
-  // test current line
 
   { "keys": ["super+shift+t"], "command": "reopen_last_file" },
 	{ "keys": ["f3"], "command": "find_next" },
