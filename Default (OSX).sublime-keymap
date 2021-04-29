@@ -1,6 +1,8 @@
 
 [
-  { "keys": ["super+alt+l"], "command": "pep8_autoformat" },
+  { "keys":
+    ["super+alt+l"],
+  "command": "black_file" },
 
   { "keys": ["super+shift+t"], "command": "reopen_last_file" },
 	{ "keys": ["f3"], "command": "find_next" },
@@ -42,7 +44,8 @@
   	{ "keys": ["alt+ctrl+shift+."], "command": "insert_snippet", "args": 
   		{"name": "Packages/User/oro.sublime-snippet"} 
   	},
-
+    { "keys": ["super+alt+j"], "command": "fold" },
+    { "keys": ["super+alt+k"], "command": "unfold" },
     { "keys": ["j", "j"], "command": "_enter_normal_mode", "args": {"mode": "mode_insert"}, "context": [{"key": "vi_insert_mode_aware"}] },
     {
       "keys": ["ctrl+alt+super+f"],

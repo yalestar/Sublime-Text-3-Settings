@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+for k,v in $1.items():
+  print(k, v)
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>frd</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.python</scope>
+</snippet>
