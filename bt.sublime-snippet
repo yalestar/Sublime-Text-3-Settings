@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+become: true
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bt</tabTrigger>
+	<scope>source.yaml,source.ansible</scope> 
+</snippet>

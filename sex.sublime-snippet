@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sys.exit()
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sex</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

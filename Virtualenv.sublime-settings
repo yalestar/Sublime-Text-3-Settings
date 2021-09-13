@@ -1,0 +1,8 @@
+{
+	"executable": "python -m virtualenv",
+	"virtualenv_directories":
+	[
+		"/Users/r622233/.virtualenvs/dataextractor",
+		"/Users/r622233/dev/Tableau_Working/docapi"
+	]
+}

@@ -1,0 +1,12 @@
+{
+    // executable is the path to anaconda's python
+    // this python executable is used in order to find conda
+    "executable": "/Users/r622233/miniconda2/envs/py36/bin/python",
+
+    // Directory in which the conda envs are stored
+    // Default location is the user's home directory
+    "environment_directory": "~/miniconda/envs/",
+
+    // configuration is the path to conda's configuration file
+    "configuration": "~/.condarc"
+}

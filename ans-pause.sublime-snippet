@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+- name: Here we pause 
+  pause:
+      prompt: "${1:}"
+]]></content>
+  <tabTrigger>pause</tabTrigger>
+  <scope>source.yaml,source.ansible</scope>
+</snippet>

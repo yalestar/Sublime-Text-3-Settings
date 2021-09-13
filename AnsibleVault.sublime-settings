@@ -1,0 +1,4 @@
+// Ansible Vault settings
+{
+  "password_file": "/Users/r622233/.vault_pass.txt"
+}

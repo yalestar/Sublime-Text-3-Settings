@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<% else %>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>else</tabTrigger>
+<!--	<scope>source.ruby.rails.erb</scope> -->
+</snippet>

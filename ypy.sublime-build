@@ -1,0 +1,6 @@
+{
+	"cmd": ["/Users/r622233/.virtualenvs/dataextractor/bin/python", "$file"],
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.python"
+}

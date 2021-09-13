@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+- pause:
+    prompt: "I guess lard was False"
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>apos</tabTrigger>
+	<scope>source.ansible,source.yaml</scope> 
+</snippet>

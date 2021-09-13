@@ -1,0 +1,24 @@
+{
+  "sql_exec.commands": {
+    "mysql": "/usr/local/bin/mysql"
+  },
+  "connections": {
+    "PalDev": {
+      "type": "mysql",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "username": "root",
+      "password": "root",
+      "database": "paladin_development"
+    },
+    "Connection 2": {
+      "type": "oracle",
+      "host": "127.0.0.1",
+      "port": 1522,
+      "username": "anotheruser",
+      "password": "password",
+      "database": "dbname",
+      "service": "servicename"
+    }
+  }
+}
