@@ -1,3 +1,5 @@
 {
-  "GOPATH": "/Users/r622233/go"
+  "GOPATH": "/Users/r622233/go",
+    // "auto_complete_triggers": [{"selector": "source.go - string - comment - constant.numeric", "characters": "."}]
+
 }
